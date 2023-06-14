@@ -1,20 +1,14 @@
 ---
 title: "EECS351: Digital Signal Processing"
 collection: teaching
-type: "Undergraduate course, Graduate Student Instructor,"
+type: "Undergraduate course, Graduate Student Instructor"
 permalink: /teaching/2023-spring-teaching-1
 venue: "University of Michigan, EECS Department"
 date: 2023-01-01
 location: "Ann Arbor, MI, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+EECS351 is a Digital Signal Processing (DSP) course where I lead a weekly discussion reinforcing course material through further mathematical analysis and examples. Moreover, I moderated the Canvas/Piazza forum section to answer student questions related to homework and general course questions. This is besides the usual GSI expectations of dealing with homework assignments and tests.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
 ======
