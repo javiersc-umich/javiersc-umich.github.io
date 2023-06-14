@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Latest PDF CV
+======
+[![CV](/images/cv.png "Press image for link")](https://javiersc1.github.io/files/cv.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, University of Texas at Arlington, 2020
+* B.S. in Electrical Engineering, University of Texas at Arlington, 2020
+* M.S. in Electrical Engineering, University of Michigan, 2023
+* Ph.D in Electrical Engineering, University of Michigan, 2027 (expected)
 
 Work experience
 ======
@@ -26,7 +31,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -41,19 +46,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
