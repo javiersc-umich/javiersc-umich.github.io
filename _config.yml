@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Javier Salazar Cavazos"
 title_separator          : "-"
 name                     : &name "Javier Salazar Cavazos"
-description              : &description "personal description"
+description              : &description "CV"
 url                      : https://javiersc-umich.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "javiersc-umich/javiersc-umich.github.io"
@@ -85,9 +85,9 @@ author:
   bio              : "EE PhD Student @ University of Michigan"
   location         : "Ann Arbor, MI, USA"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "javiersc@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,12 +109,12 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://en.wikipedia.org/wiki/User:Javi2828"
+  wikipedia        : "Javi2828"
 
 
 # Reading Files
