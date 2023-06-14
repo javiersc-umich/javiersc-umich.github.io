@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Latest PDF CV
+Press image for link!
 ======
 [![CV](/images/cv.png "Press image for link")](https://javiersc1.github.io/files/cv.pdf)
 
-Education
+<!-- Education
 ======
 * B.S. in Mathematics, University of Texas at Arlington, 2020
 * B.S. in Electrical Engineering, University of Texas at Arlington, 2020
@@ -61,4 +61,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
