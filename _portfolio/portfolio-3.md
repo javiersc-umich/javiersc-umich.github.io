@@ -5,4 +5,4 @@ collection: portfolio
 ---
 Press image below for full PDF.
 ======
-[![metropolis](/images/metropolis.png "Press image for link")](https://javiersc1.github.io/files/metropolis.pdf)
+[![metropolis](/images/metropolis2.png "Press image for link")](https://javiersc1.github.io/files/metropolis.pdf)
