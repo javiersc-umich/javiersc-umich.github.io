@@ -190,7 +190,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  undergrad:
+    output: true
+    permalink: /:collection/:path/
+  industry:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -239,6 +244,24 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: industry
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: undergrad
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _certifications
   - scope:
       path: ""
@@ -267,7 +290,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

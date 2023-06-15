@@ -9,8 +9,14 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Portfolio"
+  - title: "Industry Portfolio"
+    url: /industry/
+
+  - title: "Graduate Portfolio"
     url: /portfolio/
+
+  - title: "Undergraduate Portfolio"
+    url: /undergrad/
 
   - title: "Certifications"
     url: /certifications/
