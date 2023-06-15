@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Vision Transformers & Pose Estimation"
+excerpt: "Trained a transformer-based neural network for pose estimation tasks. Press blue link above for more detail and PDF report.<br/><img src='/images/vitpose.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+======
+Press image below for full PDF.
+[![vitpose](/images/vitpose_model.png "Press image for link")](https://javiersc1.github.io/files/vitpose.pdf)
