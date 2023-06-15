@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  # certifications:
-  #   output: true
-  #   permalink: /:collection/:path/
+  certifications:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -242,7 +242,7 @@ defaults:
   # _certifications
   - scope:
       path: ""
-      type: certifications 
+      type: certifications
     values:
       layout: single
       author_profile: true
