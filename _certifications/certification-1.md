@@ -1,5 +1,6 @@
 ---
 title: "Autodesk AutoCad Professional"
-excerpt: "Press image below for PDF.[![cert1](/images/500x300.png "Press image for link")](https://javiersc1.github.io/files/ssc.pdf)"
+excerpt: "Press blue link above for PDF.<br/><img src='/images/autocad.png'>"
 collection: certifications
 ---
+[![autocad](/images/autocad.png "Press image for link")](https://javiersc1.github.io/files/autocad.pdf)
