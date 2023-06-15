@@ -1,18 +1,12 @@
 ---
 title: "Convolutional Neural Networks: Object Detection"
-excerpt: "Implemented a CNN for object detection tasks with handcrafted layers, FCOS, and more. Press blue link above for Jupyter notebook code.<br/><img src='/images/object_detection.png'>"
+excerpt: "Implemented a CNN for object detection tasks with handcrafted layers, FCOS, and more. Press blue link above for more detail.<br/><img src='/images/object_detection.png'>"
 collection: portfolio
 ---
 # FCOS: A Simple One-Stage and Anchor-Free Object Detector
 
-In this exercise you will implement a single-stage object detector based on [FCOS: Fully-Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355) and train it to detect a set of object classes.
-Our detector design is highly similar to FCOS itself, except we train a smaller model with slightly different hyperparameters to manage with limited resources on Colab.
-
-This problem set will use a small version of the popular image detection dataset Pascal VOC.
-
-We will also evaluate the detection accuracy using the mean Average Precision ([mAP](https://github.com/Cartucho/mAP)).
-
-**Acknowledgement**: This problem set has been adapted from EECS 598/498 Deep Learning for Computer Vision taught by Prof. Justin Johnson.
+I implemented a single-stage object detector based on [FCOS: Fully-Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355) and train it to detect a set of object classes.
+The detector design is highly similar to FCOS itself, except I train a smaller model with slightly different hyperparameters to manage with limited resources on Colab. I will also evaluate the detection accuracy using the mean Average Precision ([mAP](https://github.com/Cartucho/mAP)).
 
 # 7.1 (a) Getting started
 
@@ -2019,13 +2013,3 @@ Image(filename="./mAP/output/mAP.png")
 
 
 ![png](/images/object_detection_files/object_detection_64_0.png)
-
-
-
-
-
-    <IPython.core.display.Javascript object>
-
-
-
-    <IPython.core.display.Javascript object>
