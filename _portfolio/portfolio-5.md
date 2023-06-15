@@ -241,19 +241,19 @@ for idx, (_, image, gt_boxes) in enumerate(train_dataset):
 
 
 
-![png](object_detection_files/object_detection_19_0.png)
+![png](images/object_detection_files/object_detection_19_0.png)
 
 
 
 
 
-![png](object_detection_files/object_detection_19_1.png)
+![png](images/object_detection_files/object_detection_19_1.png)
 
 
 
 
 
-![png](object_detection_files/object_detection_19_2.png)
+![png](images/object_detection_files/object_detection_19_2.png)
 
 
 
@@ -848,7 +848,7 @@ for level_name, locations in locations_per_fpn_level.items():
 
 
 
-![png](object_detection_files/object_detection_33_1.png)
+![png](images/object_detection_files/object_detection_33_1.png)
 
 
 
@@ -859,7 +859,7 @@ for level_name, locations in locations_per_fpn_level.items():
 
 
 
-![png](object_detection_files/object_detection_33_3.png)
+![png](images/object_detection_files/object_detection_33_3.png)
 
 
 
@@ -870,7 +870,7 @@ for level_name, locations in locations_per_fpn_level.items():
 
 
 
-![png](object_detection_files/object_detection_33_5.png)
+![png](images/object_detection_files/object_detection_33_5.png)
 
 
 
@@ -928,7 +928,7 @@ detection_visualizer(
 
 
 
-![png](object_detection_files/object_detection_37_0.png)
+![png](images/object_detection_files/object_detection_37_0.png)
 
 
 
@@ -1660,7 +1660,7 @@ train_detector(
 
 
 
-![png](object_detection_files/object_detection_52_1.png)
+![png](images/object_detection_files/object_detection_52_1.png)
 
 
 
@@ -1819,7 +1819,7 @@ train_detector(
 
 
 
-![png](object_detection_files/object_detection_55_1.png)
+![png](images/object_detection_files/object_detection_55_1.png)
 
 
 
@@ -1878,61 +1878,61 @@ inference_with_detector(
 
 
 
-![png](object_detection_files/object_detection_59_1.png)
+![png](images/object_detection_files/object_detection_59_1.png)
 
 
 
 
 
-![png](object_detection_files/object_detection_59_2.png)
+![png](images/object_detection_files/object_detection_59_2.png)
 
 
 
 
 
-![png](object_detection_files/object_detection_59_3.png)
+![png](images/object_detection_files/object_detection_59_3.png)
 
 
 
 
 
-![png](object_detection_files/object_detection_59_4.png)
+![png](images/object_detection_files/object_detection_59_4.png)
 
 
 
 
 
-![png](object_detection_files/object_detection_59_5.png)
+![png](images/object_detection_files/object_detection_59_5.png)
 
 
 
 
 
-![png](object_detection_files/object_detection_59_6.png)
+![png](images/object_detection_files/object_detection_59_6.png)
 
 
 
 
 
-![png](object_detection_files/object_detection_59_7.png)
+![png](images/object_detection_files/object_detection_59_7.png)
 
 
 
 
 
-![png](object_detection_files/object_detection_59_8.png)
+![png](images/object_detection_files/object_detection_59_8.png)
 
 
 
 
 
-![png](object_detection_files/object_detection_59_9.png)
+![png](images/object_detection_files/object_detection_59_9.png)
 
 
 
 
 
-![png](object_detection_files/object_detection_59_10.png)
+![png](images/object_detection_files/object_detection_59_10.png)
 
 
 
@@ -2018,7 +2018,7 @@ Image(filename="./mAP/output/mAP.png")
 
 
 
-![png](object_detection_files/object_detection_64_0.png)
+![png](images/object_detection_files/object_detection_64_0.png)
 
 
 
