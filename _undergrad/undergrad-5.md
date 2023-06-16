@@ -1,6 +1,6 @@
 ---
 title: "Stochastic Models & Simulations"
-excerpt: "Stochastic modeling is useful for many real-world scenerios. From random number generation, Markov chains, random walks, and Black-Scholes option pricing, and more. Press blue link above for more details and all algorithms I worked on."
+excerpt: "Stochastic modeling is useful for many real-world scenerios. From random number generation, Markov chains, random walks, and Black-Scholes option pricing, and more. Press blue link above for more details and all algorithms I worked on.<br/><img src='/images/stochastic.png'>"
 collection: undergrad
 ---
 ### Random Number Generation, Central Limit Theorem, & Law of Large Numbers

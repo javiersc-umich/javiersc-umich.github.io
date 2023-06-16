@@ -1,6 +1,6 @@
 ---
-title: "Machine Learning Algorithms (from scratch w/ MATLAB)"
-excerpt: "Machine learning is a hot topic where one wants to learn from data to achieve a certain task. I have implemented various algorithms from LDA, interpolation, k-NN, clustering, MLP, and more. Press blue link above for more details and all algorithms I worked on."
+title: "Machine Learning Algorithms"
+excerpt: "Machine learning is a hot topic where one wants to learn from data to achieve a certain task. I have implemented various algorithms from LDA, interpolation, k-NN, clustering, MLP, and more. Press blue link above for more details and all algorithms I worked on.<br/><img src='/images/machinelearning.png'>"
 collection: undergrad
 ---
 ### Multi-Dimensional Basis Expansion Linear Regression w/ L2 Regularization

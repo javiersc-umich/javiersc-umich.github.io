@@ -1,6 +1,6 @@
 ---
 title: "Numerical Analysis Algorithms"
-excerpt: "Numerical Analysis is the study of mathematical numerical algorithms such as ODE solvers, Taylor approximations, matrix solvers, root finders, numerical integration, and more. Press blue link above for more details and all algorithms I worked on."
+excerpt: "Numerical Analysis is the study of mathematical numerical algorithms such as ODE solvers, Taylor approximations, matrix solvers, root finders, numerical integration, and more. Press blue link above for more details and all algorithms I worked on.<br/><img src='/images/numerical.png'>"
 collection: undergrad
 ---
 ### Euler ODE Forward & Backward Algorithm
