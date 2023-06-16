@@ -8,6 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third year PhD Candidate in the Signal and Image Processing & Machine Learning (SIPML) track of the [Electrical and Computer Engineering](https://ece.engin.umich.edu/) department at the University of Michigan. I am co-advised by [Laura Balzano](https://web.eecs.umich.edu/~girasole/) and [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/). I am fortunate to be partially supported by the Rackham Merit Fellowship.
+Hi! My name is Javier (pronounced like ha-bee-air). I am a third year PhD Candidate in the Signal and Image Processing & Machine Learning (SIPML) track of the [Electrical and Computer Engineering](https://ece.engin.umich.edu/) department at the University of Michigan. I am co-advised by [Laura Balzano](https://web.eecs.umich.edu/~girasole/) and [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/). I am fortunate to be partially supported by the Rackham Merit Fellowship. My research interests are topics such as signal/image processing, machine learning, optimization, and applied math.
 
-My research focuses on improving machine learning algorithms under heteroscedastic (noisy) data conditions and optimization algorithms for Dynamic MRI applications.
+My research so far focuses on the following:
+- Improving machine learning algorithms like PCA, subspace clustering, and manifold learning under heteroscedastic (noisy) data conditions
+- Optimization algorithms and guarantees for Dynamic MRI
+
+As you can see in the navigation bar above, I have various sections available that are mostly self-explanatory ranging from:
+ 1. **Publications** = Publications and preprints
+ 2. **Talks** = Talks/Presentations I have given over the years at my academic groups and conferences
+ 3. **Teaching/Awards** = Teaching experience and academic awards received from different organizations/departments
+ 4. **Industry** = Industry experience and portfolio
+ 5. **Grad Work** = Graduate portfolio and projects
+ 6. **Undergrad Work** = Undergraduate portfolio and projects
+ 7. **Certs** = Certifications ranging from AutoCAD, SolidWorks, CompTIA A+, and FE Electrical & Computer
+
+ **I am currently looking for internships for Summer 2024 so please reach out about any opportunities :)**
