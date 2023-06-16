@@ -1,5 +1,5 @@
 ---
-title: "EECS351: Digital Signal Processing"
+title: "Teaching: EECS351 - Digital Signal Processing"
 collection: teaching
 type: "Undergraduate course, Graduate Student Instructor"
 permalink: /teaching/2023-spring-teaching-1
