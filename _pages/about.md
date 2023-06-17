@@ -18,8 +18,8 @@ My research so far focuses on the following:
 
 In the navigation bar above, I have various sections available ranging from:
  1. **Publications** = Publications and preprints
- 2. **Talks** = Talks/Presentations I have given over the years at my academic groups and conferences
- 3. **Teaching/Awards** = Teaching experience and academic awards received from different organizations/departments
+ 2. **Talks** = Talks/Presentations over the years at various academic groups/conferences
+ 3. **Teaching/Awards** = Teaching experience and academic awards received over the years
  4. **Industry** = Industry experience and portfolio
  5. **Grad Work** = Graduate portfolio and projects
  6. **Undergrad Work** = Undergraduate portfolio and projects
