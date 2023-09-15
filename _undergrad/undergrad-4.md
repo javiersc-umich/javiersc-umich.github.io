@@ -3,6 +3,9 @@ title: "Machine Learning Algorithms"
 excerpt: "Machine learning is a hot topic where one wants to learn from data to achieve a certain task. I have implemented various algorithms from LDA, interpolation, k-NN, clustering, MLP, and more. Press blue link above for more details and all algorithms I worked on.<br/><img src='/images/machinelearning.png'>"
 collection: undergrad
 ---
+Machine learning is a hot topic where one wants to learn from data to achieve a certain task. I have implemented various algorithms from LDA, interpolation, k-NN, clustering, MLP, and more. Press blue link above for more details and all algorithms I worked on.
+<img src='/images/machinelearning.png'>
+
 ### Multi-Dimensional Basis Expansion Linear Regression w/ L2 Regularization
 [Problem Description](https://github.com/javier2828/machineLearning/blob/master/Machine%20Learning/Screenshot_2020-05-26%20Assignment%202.png)
 
