@@ -2,7 +2,7 @@
 title: "Teaching: EECS351 - Digital Signal Processing"
 collection: teaching
 type: "Undergraduate course, Graduate Student Instructor"
-permalink: /teaching/2023-spring-teaching-1
+permalink: /teaching/2023-spring-teaching-7
 venue: "University of Michigan, EECS Department"
 date: 2023-01-01
 location: "Ann Arbor, MI, USA"
