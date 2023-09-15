@@ -3,6 +3,9 @@ title: "Convolutional Neural Networks: Object Detection"
 excerpt: "Implemented a CNN for object detection tasks with handcrafted layers, FCOS, and more. Press blue link above for more detail.<br/><img src='/images/object_detection.png'>"
 collection: portfolio
 ---
+Implemented a CNN for object detection tasks with handcrafted layers, FCOS, and more. Press blue link above for more detail.
+<img src='/images/object_detection.png'>
+
 # FCOS: A Simple One-Stage and Anchor-Free Object Detector
 
 I implemented a single-stage object detector based on [FCOS: Fully-Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355) and train it to detect a set of object classes.

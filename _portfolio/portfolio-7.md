@@ -3,6 +3,10 @@ title: "Autoencoders & CLIP models"
 excerpt: "Implemented Autoencoder model for image compression and representational learning. Moreover, the CLIP model is explored for query tasks as shown below. Press blue link above for more details.<br/><img src='/images/autoencoders.png'> <br/><img src='/images/clip.png'>"
 collection: portfolio
 ---
+Implemented Autoencoder model for image compression and representational learning. Moreover, the CLIP model is explored for query tasks as shown below.
+<img src='/images/autoencoders.png'>
+<img src='/images/clip.png'>
+
 # Starting
 
 Run the following code to import the modules you'll need. After your finish the assignment, remember to run all cells and save the note book to your local machine as a .ipynb file for Canvas submission.

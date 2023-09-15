@@ -3,6 +3,9 @@ title: "Generative Adverserial Networks (GANs) & Neural Transfer"
 excerpt: "GAN-based neural network implementation for style transfer generation. Press blue link above for more details.<br/><img src='/images/gans.png'>"
 collection: portfolio
 ---
+GAN-based neural network implementation for style transfer generation.
+<img src='/images/gans.png'>
+
 # Starting
 
 Run the following code to import the modules you'll need.

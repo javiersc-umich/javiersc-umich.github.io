@@ -3,6 +3,9 @@ title: "Diffusion Models"
 excerpt: "Diffusion-based neural networks have gained traction in recent years for tasks such as generative AI. In this project, I implement a diffusion-based network for image generation using CIFAR10 dataset. Press blue link above for more details.<br/><img src='/images/diffusion.png'>"
 collection: portfolio
 ---
+Diffusion-based neural networks have gained traction in recent years for tasks such as generative AI. In this project, I implement a diffusion-based network for image generation using CIFAR10 dataset.
+<img src='/images/diffusion.png'>
+
 # Diffusion model
 
 ```python

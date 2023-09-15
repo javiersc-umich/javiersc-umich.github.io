@@ -3,6 +3,9 @@ title: "Laplacian Pyramids: Image Blending"
 excerpt: "Laplacian pyramids are useful to capture information of images at various scales. In this project, I use this to blend images together as seen below. Press blue link above for more details.<br/><img src='/images/laplacian.png'>"
 collection: portfolio
 ---
+Laplacian pyramids are useful to capture information of images at various scales. In this project, I use this to blend images together as seen below.
+<img src='/images/laplacian.png'>
+
 # Setup
 
 Run the following code to import the modules you'll need. After your finish the assignment, remember to run all the cells and save the notebook to your local machine as a `.ipynb` file for Canvas submission.

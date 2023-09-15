@@ -3,6 +3,9 @@ title: "VGG Network: Scene Recognition"
 excerpt: "In this project, I perform classification (scene recognition) with a VGG-type neural network using the miniplaces dataset to recognize the scene of images. Press blue link above for more details.<br/><img src='/images/vgg.png'>"
 collection: portfolio
 ---
+In this project, I perform classification (scene recognition) with a VGG-type neural network using the miniplaces dataset to recognize the scene of images.
+<img src='/images/vgg.png'>
+
 # Starting
 
 ```python

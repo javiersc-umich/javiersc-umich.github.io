@@ -3,6 +3,9 @@ title: "Panorama Stitching with ORB/SIFT Features"
 excerpt: "Panorama stitching involves joining images taken at different angles. This is nontrivial since it's challenging to line them up. By using ORB features (key landmarks), one can use this to find the affine mapping related to the two images as shown below. Press blue link above for more details.<br/><img src='/images/panorama.png'>"
 collection: portfolio
 ---
+Panorama stitching involves joining images taken at different angles. This is nontrivial since it's challenging to line them up. By using ORB features (key landmarks), one can use this to find the affine mapping related to the two images as shown below.
+<img src='/images/panorama.png'>
+
 # Brief Overview
 
 In this problem set, you will implement panoramic stitching. Given two input images, we will "stitch" them together to create a simple panorama. To construct the image panorama, we will use concepts learned in class such as keypoint detection, local invariant descriptors, RANSAC, and perspective warping.
