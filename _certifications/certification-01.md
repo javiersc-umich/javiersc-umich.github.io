@@ -1,6 +1,6 @@
 ---
 title: "Transcript: University of Texas at Arlington"
-excerpt: "Press blue link above for more info."
+excerpt: "Press blue link above for more info. <br/><img src='/images/uta_transcript.png'>"
 collection: certifications
 ---
 Press image below for full PDF!

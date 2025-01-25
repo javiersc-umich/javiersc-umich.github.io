@@ -1,6 +1,6 @@
 ---
 title: "Transcript: University of Michigan"
-excerpt: "Press blue link above for more info."
+excerpt: "Press blue link above for more info. <br/><img src='/images/umich_transcript.png'>"
 collection: certifications
 ---
 Press image below for full PDF!

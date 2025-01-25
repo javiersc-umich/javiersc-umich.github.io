@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Javier (pronounced like ha-bee-air). I am a third year PhD Candidate in the Signal and Image Processing & Machine Learning (SIPML) track of the [Electrical and Computer Engineering](https://ece.engin.umich.edu/) department at the University of Michigan. I am co-advised by [Laura Balzano](https://web.eecs.umich.edu/~girasole/) and [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/). I am fortunate to be partially supported by the Rackham Merit Fellowship. My research interests are topics such as signal/image processing, machine learning, optimization, and applied math.
+Hi! My name is Javier (pronounced like ha-bee-air). I am a third year PhD Candidate in the Signal and Image Processing & Machine Learning (SIPML) track of the [Electrical and Computer Engineering (ECE)](https://ece.engin.umich.edu/) department at the University of Michigan. I am co-advised by [Laura Balzano](https://web.eecs.umich.edu/~girasole/) and [Jeffrey Fessler](https://web.eecs.umich.edu/~fessler/). I collaborate with [Scott Peltier](https://fmri.research.umich.edu/about/faculty/peltier.php) from the [Biomedical Engineering (BME)](https://bme.umich.edu/) department. I am fortunate to be partially supported by the Rackham Merit Fellowship. My research interests are topics such as signal/image processing, machine learning, deep learning, medical imaging, optimization, and applied math.
 
- **I am currently looking for internships for Summer 2024 so please reach out about any opportunities :)**
 
 My research so far focuses on the following:
-- Improving machine learning algorithms like PCA, subspace clustering, and manifold learning under heteroscedastic (noisy) data conditions
-- Optimization algorithms and guarantees for Dynamic MRI
+- Designing machine learning algorithms to better handle heteroscedastic (noisy) data distributions such as:
+  - Subspace basis estimation of low-rank data with an improved PCA-like algorithm
+  - Unsupervised learning of low-rank data clusters with an improved K-Subspaces algorithm
+- Alzheimer's disease in resting state / task-based functional MRI data with novel deep learning approaches such as:
+  - 4D CNN architecture to handle raw data (X,Y,Z,T) for classifying subjects
+  - Contrastive learning of structural MRI (X,Y,Z) for latent variable downstream tasks
+  - Using Power atlas ROIs, learning temporal dynamics of timeseries (T, 272 regions) for classifying subjects
 
 In the navigation bar above, I have various sections available ranging from:
  1. **Publications** = Publications and preprints
